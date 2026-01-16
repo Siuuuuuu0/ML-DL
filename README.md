@@ -1,4 +1,4 @@
-Due to Github unable to load CV.ipynb, here's the google drive link:
+Due to Github unable to load CV.ipynb and FoodVision.ipynb, here's the google drive link:
 
 https://colab.research.google.com/drive/1dBTX5b7tCYL9aBkk9-YQk4SEbMYLDnHa?usp=drive_link
 
